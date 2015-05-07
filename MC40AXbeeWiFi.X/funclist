@@ -1,0 +1,25 @@
+___awdiv: CODE, 4003 0 93
+___aldiv: CODE, 853 0 143
+_lcdGoto: CODE, 3946 0 57
+__stringtab: STRING, 3 0 6
+__stringdata: STRING, 9 0 90
+___ftpack: CODE, 265 0 104
+_beep: CODE, 103 0 65
+_uartReceive: CODE, 3741 0 10
+_main: CODE, 1685 0 359
+___ftadd: CODE, 1420 0 265
+___lltoft: CODE, 3857 0 43
+__initialization: CODE, 2044 0 0
+_lcdWrite: CODE, 3768 0 26
+_lcdPutstr: CODE, 3900 0 46
+_setPwmRC1: CODE, 369 0 107
+_setPwmRC2: CODE, 476 0 107
+_motor: CODE, 583 0 128
+_lcdInit: CODE, 168 0 97
+___wmul: CODE, 3822 0 35
+_picInit: CODE, 3794 0 28
+_uartInit: CODE, 1180 0 240
+___fttol: CODE, 711 0 142
+___bmul: CODE, 3751 0 17
+___ftdiv: CODE, 996 0 184
+Total: 2392
